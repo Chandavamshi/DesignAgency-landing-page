@@ -1,10 +1,9 @@
 
 .hero-section {
     background-color: #D7F5DC;
-    padding-bottom: 50px;
-   
-   
+    padding-bottom: 50px;  
 }
+
 
 .navbar {
     display: flex;
@@ -15,18 +14,13 @@
     width: 100%;
     position: sticky;
     top: 0px;
-    
-   
-   
 
 }
 
 .design {
     display: flex;
     justify-content: start;
-    padding-left: 40px;
-    
-    
+    padding-left: 40px;  
 }
 
 span {
@@ -140,6 +134,7 @@ a {
 .h2,
 .h3 {
     padding-left: 80px;
+    
 }
 
 .subscribe {
